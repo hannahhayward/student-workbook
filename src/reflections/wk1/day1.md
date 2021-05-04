@@ -1,6 +1,2 @@
 # What is Git and why do we use it?
->Git is a source control solution
-
-What are the benefits of having multiple branches?
-
-What is the difference between Git and GitHub
+>Git is a source control solution that tracks content and stores it in a local server or repository. Gits functionality is based on the utilization of three systems: a control system, a version control system, and a distributed control system. Through the use of these three systems Git is able to track the content that is being created while keeping a detailed history of the changes and allowing all of that to be saved in both a local and remote repository. In the case of Git, that remote storage system is known as GitHub. Here, one is able to upload or push changes to the remote repository from their local storage and then go back and pull the total content from the repository. This creates the perfect group project environment, as multiple developers are able to create their own code contributions without permanently altering the skeletal code. Another great tool that Git has for situations such as this is called branching, which allows developers to create parallel code while still being able to track the changes and code separately from one another. 
