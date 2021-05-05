@@ -15,7 +15,7 @@ make directory is used to create new folders
 **3.** What is the `\<html>\</html>` tag in a document?
 <!-- enter you answer in the space below -->
 ```
-
+this tag outlines what all you would like to show up on your html document.
 ```
 
 **4.** What does `HTML` stand for?
