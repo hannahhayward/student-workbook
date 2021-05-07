@@ -1,0 +1,4 @@
+# What is wire-framing and the levels, and why is it beneficial?
+> Wire-framing is an early stage of web development. Typically taking part during the concept brainstorming process, it is a great way to help organize ideas and create a beginning visual outline. Beginning with a simple sketch, then working your way through the exact visual layout and dimensions/content, solidifies all the desires of the associated parties. These three stages; also referred to as low, mid, and high fidelity, should include both shareholders and developers. This minimizes the amount of changes during the final phase of your web development, basically making your work as a developer easier.
+
+Lab Project: https://github.com/hannahhayward/partner-site-clone
