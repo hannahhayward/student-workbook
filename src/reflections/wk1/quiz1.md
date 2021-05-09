@@ -38,13 +38,15 @@ cascading style sheets
 ```
 <!-- enter you answer in the space below -->
 ```
-
+Selector: targets the element
+Property: specifies which attribute of the element is being targeted
+Value: sets the value of the property
 ```
 
 **7.** What property would you change if you wanted to make a font **Bold**?
 <!-- enter you answer in the space below -->
 ```
-
+font
 ```
 
 **8.** In what tag does the majority of your code belong?
@@ -56,17 +58,19 @@ the <body> tag
 **9.** What three tags can be used to make lists (not list items)?
 <!-- enter you answer in the space below -->
 ```
-s
+<ul>
+<ol>
+<dl>
 ```
 
 **10.** Define the display `:flex property:`
 <!-- enter you answer in the space below -->
 ```
-
+allows you to control how an element changes (flexes) to fit a screen.
 ```
 
 **11.** What `CSS` properties affect the size of a box model?
 <!-- enter you answer in the space below -->
 ```
-
+Width and Height
 ```
