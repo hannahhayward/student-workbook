@@ -1,4 +1,4 @@
 # What are the key components of a function and what are the different ways to write them?
 > When writing a function there are three different ways one can write. A function declaration is when you name the function, followed by the definition. An expression defines an anonymous function, and an arrow function is simply a shorter syntax. When using an expression or arrow function, the definition cannot be used before defined, as they are not hoisted. When writing a function, a parameter and argument is always needed. A parameter is simply the name created for the function, while an argument is the values that the function receives. In some cases, a function can call another function as a parameter or returns a function. This is referred to as a higher order function. 
 
-Lab Link:
+Lab Link: https://github.com/hannahhayward/js-loops-arrays
