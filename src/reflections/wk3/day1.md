@@ -1,0 +1,4 @@
+# How does ES6 Modules work and what is the benefit? 
+> The ES6 module system allows you to combine all of your javascript files into one main script tag. Doing this, as opposed to using multiple script tags within your html document helps to increase your page performance and helps with general organization. Once you create your functions (or modules) within a document, simply export the code individually or call multiple functions at once to make them accessible within the module system. You also have the option to set aliases for different functions, effectively eliminating the issue that comes with functions sharing the same name. 
+
+Lab Link: 
