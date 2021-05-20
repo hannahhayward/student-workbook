@@ -1,0 +1,4 @@
+# How do proxies benefit the way you set operations?
+> With the use of proxies, we are able to override certain defaults that the set and get operators have built in to them. By using the trap method you are able to override the parameters that each operation takes in in order to ensure you do not get an undefined value back. In addition to that you are also able to utilize proxies to help validate the data types being entered to ensure the correct type is inputted. If not then you are able to throw an error code that doesn't allow the user to continue with that action. 
+
+lab link: https://github.com/hannahhayward/summer21-gregslist-v1-main
