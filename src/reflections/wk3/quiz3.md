@@ -31,7 +31,7 @@ single responsibility
 **5.** What the difference between a `class` and an instance of a `class`?
 <!-- enter you answer in the space below -->
 ```
-
+a class is like a blueprint of the object while the instance is an actual object
 ```
 **6.** What is a `Proxy` object?
 <!-- enter you answer in the space below -->
@@ -47,17 +47,17 @@ to seperate the application into information that is presented and accepted by t
 **8.** What is the job of the `Controller` in the `MVC` Pattern?
 <!-- enter you answer in the space below -->
 ```
-
+the controller controls what is shown on the dom
 ```
 
 **9.** What is the job of the `Service` in `MVC`?
 <!-- enter you answer in the space below -->
 ```
-
+the service is what manipulates the data
 ```
 **10.** What is the job of the `Model` in `MVC`?
 <!-- enter you answer in the space below -->
 ```
-
+the model defines what the data is
 ```
 
