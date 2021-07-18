@@ -5,4 +5,4 @@
 # In your own words, how do Reference types get stored in memory? How does this differ from Value types?
 > A reference type does not store its own data, instead refers you to the location where you can find the data you’re looking for. While a value data type stores data within the local memory, making it directly accessible rather than having to ‘dig’ for it.
 
-lab link: https://github.com/hannahhayward/rps-csharp
+lab link: https://github.com/hannahhayward/RPS
